@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css">
     <style>
         body {
-            background-image: url("assets/markus-spiske-BTKF6G-O8fU-unsplash.jpg");
+            background-image: url("assets/cyberpunk-sci-fi-city-hd-wallpaper-uhdpaper.com-337@1@m.jpg");
             background-size: cover;
             background-position: center;
             display: flex;
@@ -35,7 +35,7 @@
             font-size: 26px;
             font-weight: bold;
             text-align: center;
-            color: #ff9900;
+            color: #b46bef;
         }
 
         .form-container .form-label {
@@ -54,7 +54,7 @@
         }
 
         .form-container input:focus {
-            border-color: #ff9900;
+            border-color: #b46bef;
             outline: none;
         }
 
@@ -65,8 +65,8 @@
         }
 
         .form-container button {
-            background-color: #ff9900;
-            color: #0e0d0d;
+            background-color: #b46bef;
+            color: #b46bef;
             border: none;
             font-size: 16px;
             padding: 12px;
@@ -87,7 +87,7 @@
         }
 
         .form-container a {
-            color: #ff9900;
+            color: #b46bef;
             text-decoration: none;
         }
 
@@ -101,7 +101,7 @@
             left: 20px;
             font-size: 28px;
             font-weight: bold;
-            color: #ff9900;
+            color: #b46bef;
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
         }
 
@@ -109,7 +109,7 @@
 </head>
 <body>
 
-<div class="brand-name">PrimePicks</div>
+<div class="brand-name">Royal Store</div>
 
 
 <div class="form-container">

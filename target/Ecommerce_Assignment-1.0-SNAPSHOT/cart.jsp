@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <style>
         body {
-            background-image: url("assets/@wallandiamin (26).jpg");
+            background-image: url("assets/laser_beams-wallpaper-1920x1080.jpg");
             margin: 0;
             padding: 0;
             font-family: Arial, sans-serif;
@@ -140,7 +140,7 @@
 <body>
 <!-- Navbar -->
 <div class="navbar">
-    <h1><a href="User_dashboard.jsp">PrimePicks</a></h1>
+    <h1><a href="User_dashboard.jsp">Royal Store</a></h1>
     <ul>
         <li><a href="products">Product List</a></li>
         <li><a href="cart.jsp">Cart</a></li>

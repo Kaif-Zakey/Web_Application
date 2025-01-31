@@ -196,7 +196,7 @@
 <body>
 <!-- Navbar -->
 <div class="navbar">
-    <h1><a href="Admin_dashboard.jsp">PrimePicks</a></h1>
+    <h1><a href="Admin_dashboard.jsp">Royal Store</a></h1>
     <ul>
         <li><a href="category-manage">Category Management</a></li>
         <li><a href="product-manage">Product Management</a></li>

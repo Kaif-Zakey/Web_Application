@@ -8,11 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>PrimePicks</title>
+    <title>Royal Store</title>
 
     <style>
         body {
-            background-image: url("assets/@wallandiamin (26).jpg");
+            background-image: url("assets/laser_beams-wallpaper-1920x1080.jpg");
             margin: 0;
             padding: 0;
             font-family: Arial, sans-serif;
@@ -27,7 +27,7 @@
 
         /* Navbar */
         .navbar {
-            background: rgba(255, 90, 0, 0.7);
+            background: rgba(42, 36, 229, 0.7);
             padding: 10px 20px;
             display: flex;
             justify-content: space-between;
@@ -61,7 +61,7 @@
         }
 
         .navbar ul li:hover {
-            background-color: #ffb600;
+            background-color: #b46bef;
             box-shadow: #2c2c2c;
         }
 
@@ -75,7 +75,7 @@
 <body>
 <!-- Navbar -->
 <div class="navbar">
-    <h1><a href="User_dashboard.jsp">PrimePicks</a></h1>
+    <h1><a href="User_dashboard.jsp">Royal Store</a></h1>
     <ul>
         <li><a href="products">Product List</a></li>
         <li><a href="cart.jsp">Cart</a></li>

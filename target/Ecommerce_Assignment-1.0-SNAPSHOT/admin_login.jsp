@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css">
     <style>
         body {
-            background-image: url("assets/markus-spiske-BTKF6G-O8fU-unsplash.jpg");
+            background-image: url("assets/cyberpunk-sci-fi-city-hd-wallpaper-uhdpaper.com-337@1@m.jpg");
             background-size: cover;
             background-position: center;
             display: flex;
@@ -107,7 +107,7 @@
     </style>
 </head>
 <body>
-<div class="brand-name">PrimePicks</div>
+<div class="brand-name">Royal Store</div>
 
 
 <div class="form-container">

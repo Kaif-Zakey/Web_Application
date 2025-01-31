@@ -1,4 +1,4 @@
-Create database ecommerce;                                                                                                                            use ecommerce;
+Create database ecom;                                                                                                                            use ecommerce;
 CREATE TABLE users (
     userId INT AUTO_INCREMENT PRIMARY KEY,
     userName VARCHAR(255) NOT NULL,
